@@ -84,7 +84,7 @@ tabela abaixo.
 
 #### Histórico de Novos Clientes Auto Credenciados
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/6/6d/Car_Crash_7-1-18_2245_%2842450608354%29.jpg](https://github.com/wander-asb/RealityShow/blob/main/RealityShow/Graficos/oneBarLinePlot.png?raw=true)" alt="Texto alternativo da imagem" width="1522" height="450">
+<img src="[https://upload.wikimedia.org/wikipedia/commons/6/6d/Car_Crash_7-1-18_2245_%2842450608354%29.jpg]" alt="Texto alternativo da imagem" width="1080" height="720">
 
 Um dado interessante é sobre o impacto em campanhas de auto credenciamento, se avaliarmos a 
 diferença do auto credenciamento no aspecto geral da safra do nosso produto, podemos visualizar no gráfico 
