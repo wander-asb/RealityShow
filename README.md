@@ -61,7 +61,7 @@ a estimar o impacto que está tentando medir. O que você diria para eles?
 variável para analisar a performance do patrocínio
 para expandir a sua base de clientes?
 
-## Resultados e Discussões
+## Metodologia
 
 De acordo com os dados disponibilizados, realizei um tratamento básico de dados para mudar o tipo 
 primitivo da variável de data, a fim de criarmos um range quando plotarmos as estruturas de visualização. Logo
@@ -79,3 +79,35 @@ não ter ido ao ar, ou então, o programa não foi disponibilizado na data. Para
 que apresentam alguma dessas duas possibilidades, respectivamente dia 31 de janeiro de 2024 e 16 de 
 fevereiro de 2024, a conversão de auto credenciamento foi de 40% e 53%, o dado pode ser visualizado na 
 tabela abaixo.
+
+## Resultados e Discussões
+
+Um dado interessante é sobre o impacto em campanhas de auto credenciamento, se avaliarmos a 
+diferença do auto credenciamento no aspecto geral da safra do nosso produto, podemos visualizar no gráfico 
+de **Histórico de Novos Clientes Auto Credenciados que no todo não gera um comportamento de entrada de 
+produto superior aos não credenciados.** Porém, cabe avaliar alguns dias que ocorreram grande impacto na 
+comparação de Onboarding do cliente por credenciamento, **dos seis dias de campanha, apenas dois dias a 
+conversão do auto credenciamento foi menor comparado ao Onboarding comum do usuário.**
+
+Mas, como poderíamos avaliar o impacto das campanhas de incentivo através de inferência causal? A 
+realização de uma estimativa de casualidade a partir do teste de inferência causal ocorreria através de dois 
+grupos, que denominaremos como grupo de tratamento e controle, o grupo de tratamento refere-se aos 
+usuários impactados pela campanha. Em contraste ao grupo de controle, composto por clientes não impactados 
+pela campanha. Dentre as duas amostras distintas, agrupadas aleatoriamente entre toda base de dados e 
+separada propositalmente.
+
+Nesse sentido, uma outra variável bastante importante está relacionada a variável resultado, no caso, o auto 
+credenciamento, isto é, se o cliente foi impactado pela campanha e posteriormente realizou o auto 
+credenciamento. Por fim, precisamos entender algumas regras da inferência causal e como interpretaríamos os 
+resultados encontrados, são elas:
+
+• A média do efeito causal para a amostra geral;
+• A média do efeito causal na parte impactada do grupo de tratamento e;
+• A média do efeito causal na parte não impactada do grupo de tratamento.
+
+Porém, temos **algumas limitações dessa análise, uma delas está relacionada a quantidade de dias que 
+ocorreram as campanhas de incentivo em relação ao total de dias que não ocorreram, resultando no viés dos
+resultados,** especialmente se os dias em que as campanhas foram executadas diferirem dos dias sem campanhas 
+em termos de características relevantes, como comportamento sazonal, muito discutido no primeiro desafio,
+**em caso de demonstração, basta avaliarmos o comportamento do total de clientes sobre o investimento 
+diário das campanhas de marketing**.
