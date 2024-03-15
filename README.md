@@ -1,7 +1,7 @@
 # RealityShow
 
 <p align="center">
-  <img width="600" height="341" src="[https://simpleads.com.br/wp-content/uploads/2018/05/191576-segmentacao-de-mercado-conheca-3-grandes-conceitos-do-marketing-1.jpg (https://www.jornalismo.ufv.br/cinecom/wp-content/uploads/2021/06/reality-show.jpg)](https://www.jornalismo.ufv.br/cinecom/wp-content/uploads/2021/06/reality-show.jpg)">
+  <img width="600" height="341" src="https://www.jornalismo.ufv.br/cinecom/wp-content/uploads/2021/06/reality-show.jpg">
 </p>
 
 Você auxiliará uma liderança do time de marketing a
