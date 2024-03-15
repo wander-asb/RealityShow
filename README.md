@@ -59,4 +59,23 @@ marketing, você precisa explicar porque elas são úteis e como te ajudariam
 a estimar o impacto que está tentando medir. O que você diria para eles?
   - Por fim, além de new_clients_autocredenciamento , você usaria alguma outra
 variável para analisar a performance do patrocínio
-para expandir a sua base de clientes? 
+para expandir a sua base de clientes?
+
+## Resultados e Discussões
+
+De acordo com os dados disponibilizados, realizei um tratamento básico de dados para mudar o tipo 
+primitivo da variável de data, a fim de criarmos um range quando plotarmos as estruturas de visualização. Logo
+após, analisei alguns fatores interessantes da nossa base de dados, composta inicialmente por 5 colunas e 425 
+linhas, divididas em dados de tratamento de campanha, histórico de criação de conta por auto credenciamento
+(nosso QR Code) e quantidade geral de novos clientes.
+
+A partir da estrutura comentada anteriormente, criei duas colunas, na seguinte ordem, uma nova 
+coluna de data, no qual traz a informação de ANO_MES e acquisition_diff, responsável por trazer o número de 
+clientes que não entraram em nosso ecossistema por auto credenciamento.
+
+Diante disso, a adesão ao auto credenciamento por campanha é um dado interessante, por exemplo, 
+sabe-se que o percentual de audiência capturado e disponibilizado na base de dados pode sofrer impacto por 
+não ter ido ao ar, ou então, o programa não foi disponibilizado na data. Para dias que ocorreram campanhas 
+que apresentam alguma dessas duas possibilidades, respectivamente dia 31 de janeiro de 2024 e 16 de 
+fevereiro de 2024, a conversão de auto credenciamento foi de 40% e 53%, o dado pode ser visualizado na 
+tabela abaixo.
