@@ -88,7 +88,10 @@ tabela abaixo.
 #### Histórico de Novos Clientes Auto Credenciados
 
 
-<img width="1522" height="450" src="[https://simpleads.com.br/wp-content/uploads/2018/05/191576-segmentacao-de-mercado-conheca-3-grandes-conceitos-do-marketing-1.jpg](https://github.com/wander-asb/RealityShow/blob/main/RealityShow/Graficos/oneBarLinePlot.png?raw=true)">
+<a href="https://github.com/wander-asb/RealityShow/blob/main/RealityShow/Graficos/oneBarLinePlot.png?raw=true" target="_blank">
+  <img width="1522" height="450" src="https://simpleads.com.br/wp-content/uploads/2018/05/191576-segmentacao-de-mercado-conheca-3-grandes-conceitos-do-marketing-1.jpg">
+</a>
+
 
 
 Um dado interessante é sobre o impacto em campanhas de auto credenciamento, se avaliarmos a 
