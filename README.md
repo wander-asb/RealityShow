@@ -88,10 +88,7 @@ tabela abaixo.
 #### Histórico de Novos Clientes Auto Credenciados
 
 
-<a href="https://github.com/wander-asb/RealityShow/blob/main/RealityShow/Graficos/oneBarLinePlot.png?raw=true" target="_blank">
-  <img width="1522" height="450" src="[https://simpleads.com.br/wp-content/uploads/2018/05/191576-segmentacao-de-mercado-conheca-3-grandes-conceitos-do-marketing-1.jpg]">
-</a>
-
+<img width="1522" height="450" src="RealityShow/Graficos/oneBarLinePlot.png">
 
 
 Um dado interessante é sobre o impacto em campanhas de auto credenciamento, se avaliarmos a 
@@ -123,3 +120,22 @@ resultados,** especialmente se os dias em que as campanhas foram executadas dife
 em termos de características relevantes, como comportamento sazonal, muito discutido no primeiro desafio,
 **em caso de demonstração, basta avaliarmos o comportamento do total de clientes sobre o investimento 
 diário das campanhas de marketing**.
+
+#### Histórico de Novos Clientes por Incentivo
+
+<img width="1522" height="450" src="RealityShow/Graficos/twoBarPlot.png">
+
+Podemos conceber, que temos uma variação interessante na captação de novos usuários ao longo do 
+tempo, percebe-se que existem dias que o incentivo foi bem menor quando comparado aos dias de campanha 
+do QR Code. Desse modo, a falta de granularidade nos dados é insuficiente para qualquer estimativa de impacto 
+na conversão de clientes nas campanhas, caso tivéssemos o controle da minutagem do momento televisivo, 
+poderíamos avaliar instantaneamente a conversão de novos clientes logo após a campanha, especificamente, 
+a variação dos novos clientes auto credenciados.
+
+Além disso, os efeitos da inferência causal no processo de entendimento de como a campanha 
+impactou ou não o público carece de mais atenção. Imagine que estamos em uma reunião e levantamos a 
+seguinte hipótese sobre a conversão de clientes no auto credenciamento: temos mais adesão de clientes no 
+interior em comparação à capital. Podemos até, hipoteticamente, dizer que no interior o meio de comunicação 
+tradicional televisivo tem mais força do que na capital, mas se colocarmos o experimento dentro desse conceito 
+(com a falta de dados de municípios), a conversão que analisamos possui um viés, pois estamos alocando a 
+conversão de clientes no mesmo grupo, por si só, generalizando o resultado de forma incorreta.
