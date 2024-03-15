@@ -82,6 +82,8 @@ tabela abaixo.
 
 ## Resultados e Discussões
 
+#### Histórico de Novos Clientes Auto Credenciados
+
 Um dado interessante é sobre o impacto em campanhas de auto credenciamento, se avaliarmos a 
 diferença do auto credenciamento no aspecto geral da safra do nosso produto, podemos visualizar no gráfico 
 de **Histórico de Novos Clientes Auto Credenciados que no todo não gera um comportamento de entrada de 
