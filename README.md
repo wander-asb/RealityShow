@@ -1,10 +1,6 @@
 # RealityShow
 
 
-<p align="center">
-  <img width="780" height="406" src="https://simpleads.com.br/wp-content/uploads/2018/05/191576-segmentacao-de-mercado-conheca-3-grandes-conceitos-do-marketing-1.jpg">
-</p>
-
 Você auxiliará uma liderança do time de marketing a
 avaliar o impacto causal de um grande investimento que a AcquirerCo está
 fazendo para patrocinar um famoso reality show 📺 👀. Seu objetivo é medir se
@@ -34,33 +30,33 @@ digitais (em R$ mil), incluindo anúncios no Google, Facebook, etc.
 período do programa, ou se ele não foi ao ar.
 
 ## Objetivo
-a. Para endereçar o problema, você decidiu se familiarizar com os dados para
+  - a. Para endereçar o problema, você decidiu se familiarizar com os dados para
 entendê-los melhor. Para isso, crie um plot com a evolução das variáveis 
 new_clients_autocredenciamento e investment_digital_marketing ao longo do tempo,
 adicionando linhas na vertical para indicar os dias em que houve alguma
 campanha de marketing específica durante o programa.
-b. Explorando as variáveis do dataset descritivamente, o que você observa de
+  - b. Explorando as variáveis do dataset descritivamente, o que você observa de
 interessante?
-c. Usando somente os dados fornecidos pelo time de marketing, como você
+  - c. Usando somente os dados fornecidos pelo time de marketing, como você
 procederia para estimar o impacto causal do investimento feito pela
 AcquirerCo em patrocinar o programa (incluindo tanto o patrocínio per se
 quanto as campanhas específicas de marketing) na quantidade de clientes
 credenciados exclusivamente através do canal de autocredenciamento?
-d. Na sua opinião, quais são as principais limitações de uma análise feita com
+  - d. Na sua opinião, quais são as principais limitações de uma análise feita com
 esses dados?
 
 💡 Dica: observe a evolução das métricas new_clients e 
 investment_digital_marketing ao longo do tempo
 
-e. Suponha que o time de marketing disponibilize esse mesmo conjunto de
+  - e. Suponha que o time de marketing disponibilize esse mesmo conjunto de
 dados, porém em alta frequência, no nível do minuto. Como essas
 informações poderiam auxiliá-lo a estimar o impacto causal de uma
 determinada campanha de marketing exibida ao vivo no reality show?
-f. Agora, imagine que seja possível obter os dados em “Reality_Show” com
+  - f. Agora, imagine que seja possível obter os dados em “Reality_Show” com
 uma granularidade ainda maior, no nível do município-dia. Porém, como
 organizar essas informações demandaria um grande esforço do time de
 marketing, você precisa explicar porque elas são úteis e como te ajudariam
 a estimar o impacto que está tentando medir. O que você diria para eles?
-g. Por fim, além de new_clients_autocredenciamento , você usaria alguma outra
+  - g. Por fim, além de new_clients_autocredenciamento , você usaria alguma outra
 variável para analisar a performance do patrocínio que a AcquirerCo fez
-para expandir a sua base de clientes? Explique o seu racional
+para expandir a sua base de clientes? 
