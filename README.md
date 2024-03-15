@@ -88,7 +88,7 @@ tabela abaixo.
 #### Histórico de Novos Clientes Auto Credenciados
 
 
-<img width="1522" height="450" src="RealityShow/Graficos/oneBarLinePlot.png">
+<img width="1250" height="375" src="RealityShow/Graficos/oneBarLinePlot.png">
 
 
 Um dado interessante é sobre o impacto em campanhas de auto credenciamento, se avaliarmos a 
@@ -123,7 +123,7 @@ diário das campanhas de marketing**.
 
 #### Histórico de Novos Clientes por Incentivo
 
-<img width="1522" height="450" src="RealityShow/Graficos/twoBarPlot.png">
+<img width="1250" height="375" src="RealityShow/Graficos/twoBarPlot.png">
 
 Podemos conceber, que temos uma variação interessante na captação de novos usuários ao longo do 
 tempo, percebe-se que existem dias que o incentivo foi bem menor quando comparado aos dias de campanha 
