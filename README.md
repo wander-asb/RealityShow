@@ -101,9 +101,9 @@ credenciamento, isto é, se o cliente foi impactado pela campanha e posteriormen
 credenciamento. Por fim, precisamos entender algumas regras da inferência causal e como interpretaríamos os 
 resultados encontrados, são elas:
 
-• A média do efeito causal para a amostra geral;
-• A média do efeito causal na parte impactada do grupo de tratamento e;
-• A média do efeito causal na parte não impactada do grupo de tratamento.
+  - A média do efeito causal para a amostra geral;
+  - A média do efeito causal na parte impactada do grupo de tratamento e;
+  - A média do efeito causal na parte não impactada do grupo de tratamento.
 
 Porém, temos **algumas limitações dessa análise, uma delas está relacionada a quantidade de dias que 
 ocorreram as campanhas de incentivo em relação ao total de dias que não ocorreram, resultando no viés dos
